@@ -4,3 +4,6 @@ Projeto de um <strong>Churrascômetro</strong> desenvolvido em <strong>JavaScrip
 
 
 ## 📌 Como funciona?
+
+O usuário informa:
+✅
