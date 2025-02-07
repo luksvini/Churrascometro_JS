@@ -5,8 +5,8 @@ Projeto de um <strong>Churrascômetro</strong> desenvolvido em <strong>JavaScrip
 
 ## 📌 Como funciona?
 
-O usuário informa:
-✅ O número de <strong>adultos</strong> e <strong>crianças</strong>
+O usuário informa:<br>
+✅ O número de <strong>adultos</strong> e <strong>crianças</strong><br>
 ✅ A <strong>duração</strong> do churrasco (em horas)
 
 Com base nesses dados, o sistema realiza um cálculo que exibe a quantidade recomendada de cada item, considerando o consumo médio por pessoa.
@@ -16,7 +16,10 @@ Com base nesses dados, o sistema realiza um cálculo que exibe a quantidade reco
 - CSS
 - JavaScript
 
-  ## 📷 Preview
+## 📷 Preview
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a1275eed-0f36-4016-b3bc-44989dc7b2f0"
+  </div>
 
 
 
